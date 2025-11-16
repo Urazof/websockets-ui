@@ -9,7 +9,7 @@
         "start:dev": "nodemon ./index.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Andrei Auchynnikau",
+    "author": "SergU",
     "keywords": [],
     "license": "ISC",
     "devDependencies": {
